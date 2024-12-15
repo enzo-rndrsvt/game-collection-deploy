@@ -1,0 +1,13 @@
+{
+  "name": "guillaumemarcel/game-collection-deploy",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Guillaume Marcel",
+      "email": "55285167+marcelguillaume@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
