@@ -1,6 +1,8 @@
 {
   "name": "guillaumemarcel/game-collection-deploy",
   "type": "project",
+  "description": "Game Collection Deploy",
+  "license": "MIT",
   "authors": [
     {
       "name": "Guillaume Marcel",
