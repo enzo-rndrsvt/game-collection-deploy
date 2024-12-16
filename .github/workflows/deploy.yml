@@ -31,4 +31,4 @@ jobs:
           REMOTE_PORT: ${{ secrets.REMOTE_PORT }}
           SOURCE: "./"
           TARGET: "~/public_html"
-          ARGS: "-rltgoDzvO --delete  --verbose --exclude=*.phar --exclude=*.htaccess --exclude=.env"
+          ARGS: "-rltgoDzvO --delete  --verbose --exclude=*.phar --exclude=.env"
